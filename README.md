@@ -1,4 +1,4 @@
-docker play
+# docker play
 
 # build the image
 docker build -t pkelly/angular-webapp .
